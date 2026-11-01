@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "bananacreate:block/titan_treadmill"
+    },
+    "axis=z": {
+      "model": "bananacreate:block/titan_treadmill",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "bananacreate:block/titan_treadmill",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

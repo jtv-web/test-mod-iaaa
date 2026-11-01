@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "bananacreate:block/blood_centrifuge"
+    },
+    "axis=z": {
+      "model": "bananacreate:block/blood_centrifuge",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "bananacreate:block/blood_centrifuge",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

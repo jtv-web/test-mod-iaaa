@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "bananacreate:block/banana_leaves"
+    },
+    "age=1": {
+      "model": "bananacreate:block/banana_leaves"
+    },
+    "age=2": {
+      "model": "bananacreate:block/banana_leaves_fruit"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "bananacreate:block/banana_leaves_fruit"
+  }
+}

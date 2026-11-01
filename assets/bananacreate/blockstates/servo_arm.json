@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bananacreate:block/servo_arm"
+    },
+    "facing=east": {
+      "model": "bananacreate:block/servo_arm",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bananacreate:block/servo_arm",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bananacreate:block/servo_arm",
+      "y": 270
+    }
+  }
+}

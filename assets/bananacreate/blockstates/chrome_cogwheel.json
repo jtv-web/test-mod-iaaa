@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "bananacreate:block/chrome_cogwheel"
+    },
+    "axis=z": {
+      "model": "bananacreate:block/chrome_cogwheel",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "bananacreate:block/chrome_cogwheel",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "bananacreate:block/blood_extractor"
+    },
+    "axis=z": {
+      "model": "bananacreate:block/blood_extractor",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "bananacreate:block/blood_extractor",
+      "x": 90,
+      "y": 90
+    }
+  }
+}
